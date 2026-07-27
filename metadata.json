@@ -1,0 +1,6 @@
+{
+  "name": "Geek Time",
+  "description": "Secure disposable email service with real-time inbox, custom durations, developer API keys, history tracking, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
